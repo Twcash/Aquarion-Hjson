@@ -1,0 +1,8 @@
+repo: "Twcash/Aquarion-Hjson"
+name: "Aquarion"
+displayName: "AquarionHjson"
+author: "twcash"
+description: "The Old Hjson Repository for Aquarion. For those who still want to tantroll."
+version: "2.0.29"
+minGameVersion: "146"
+hidden: "false"

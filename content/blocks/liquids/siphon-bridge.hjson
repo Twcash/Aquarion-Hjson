@@ -1,0 +1,17 @@
+
+requirements: [
+lead/20
+bauxite/20
+]
+range: 3
+category: liquid
+research: {
+parent: siphon
+planet: tantros
+requirements: [
+lead/80
+bauxite/40
+]
+}
+envEnabled: 4
+hasPower: false
